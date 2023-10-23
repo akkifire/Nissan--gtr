@@ -1,0 +1,92 @@
+body{
+	background-image: url(bg.jpg);
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color:darkgrey;
+	display: flow-root;
+}
+
+h1{
+	text-shadow: 3px 3px 5px red,-3px -3px 5px silver;
+	box-shadow: 3px 3px 5px red,-3px -3px 5px silver;
+	color:darkgray;
+	border: 3px solid darkred;
+	border-radius: 20px;
+	background-color: black;
+	text-align:center;
+	letter-spacing: 15px;
+
+}
+
+h2{
+	color: red;
+}
+
+#p3{
+	color:black;
+	text-align: center;
+	background-color:darkgrey;
+}
+
+
+
+#p4{
+	box-shadow: 3px 3px 5px red,-3px -3px 5px silver;
+	border-style: dashed;
+	border-width:5px;
+	border-color: darkred;
+	color: darkgrey;
+	background-color: black;
+}
+#feat{
+	box-shadow: 3px 3px 5px red,-3px -3px 5px silver;
+	border-style: dashed;
+	border-width:5px;
+	border-color: darkred;
+	color: darkgrey;
+	background-color: black;
+}
+
+#p5{
+	box-shadow: 3px 3px 5px red,-3px -3px 5px silver;
+	background-color:black;
+	border: 5px dashed darkred;
+}
+#r34{
+	margin: 10px;
+	border: 2px solid darkgrey;
+}
+#r34_2{
+	margin: 10px;
+	border: 2px solid darkgrey;
+}
+
+.next{
+	box-shadow: 3px 3px 5px red,-3px -3px 5px silver;
+	background-color: black;
+	border: 5px dashed darkred;
+	color: darkgrey;
+	display: flow-root;
+}
+#R35T{
+	color: red;
+	text-align: center;
+
+
+}
+#r35img{
+	width: 300px;
+	margin: 10px;
+	float:left;
+	border: 2px solid darkgrey;
+}
+
+#textbox{
+	box-shadow: 3px 3px 5px red,-3px -3px 5px silver;
+	border: 5px dashed darkred;
+	color: darkgrey;
+	background-color: black;
+	height: 100px;
+	overflow: scroll;
+}
